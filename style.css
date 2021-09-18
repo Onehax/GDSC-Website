@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+    scroll-behavior: smooth;
+    
+}
+.heading{
+    text-decoration: underline;
+    text-align: center;
+}
+.button{
+    font-family: 'Courier New', Courier, monospace;
+}
