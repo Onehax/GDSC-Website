@@ -1,2 +1,2 @@
 # GDSC-Website
-[GDSC WEBSITE](http://127.0.0.1:5500/index.html)
+[https://github.com/Onehax/GDSC-Website/](http://127.0.0.1:5500/index.html)
